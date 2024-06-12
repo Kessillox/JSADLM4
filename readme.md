@@ -2,10 +2,10 @@
 - [Repositorio Principal](https://github.com/Kessillox/JSADLM4)
 
 ### Ramas con proyectos del módulo
-- [Rama Clases]()
-- [Rama Herencia]()
-- [Rama Prueba]()
-- [Rama Traer Post]()
+- [Rama Clases](https://github.com/Kessillox/JSADLM4/tree/clases)
+- [Rama Herencia](https://github.com/Kessillox/JSADLM4/tree/herencia)
+- [Rama Traer Post](https://github.com/Kessillox/JSADLM4/tree/traerPost)
+- [Rama Prueba](https://github.com/Kessillox/JSADLM4/tree/prueba)
 
 
 
